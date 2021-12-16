@@ -1,0 +1,17 @@
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\ServerManager.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\ServerManager.pdb
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\Assembly-CSharp.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\Rocket.API.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\Rocket.Core.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\Rocket.Unturned.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\SDG.NetTransport.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\UnityEngine.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\bin\Debug\UnityEngine.UI.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.csproj.CoreCompileInputs.cache
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.csproj.CopyComplete
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.dll
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.pdb
+C:\Users\PARTOVIY\source\repos\ServerManager\ServerManager\obj\Debug\ServerManager.csproj.AssemblyReference.cache
