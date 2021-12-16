@@ -12,6 +12,7 @@ namespace ServerManager
         public string Map { get; set; }
         public string ImageURL { get; set; }
         public bool InLobby { get; set; }
+        public ushort TimeConnect { get; set; }
         public string IP { get; set; }
         public ushort Port { get; set; }
     }

@@ -29,6 +29,7 @@ namespace ServerManager
                     Map = Provider.map,
                     ImageURL = Provider.configData.Browser.Icon,
                     InLobby = true,
+                    TimeConnect = 5,
                     IP = SteamGameServer.GetPublicIP().ToString(),
                     Port = Provider.port
                 }
